@@ -1,15 +1,43 @@
-Hi, I’m Purv Dalwadi, a Computer Engineering student passionate about crafting scalable web solutions and solving real-world problems through code. I’m driven by the challenge of turning complex ideas into clean, functional, and high-performing applications.
+# 👋 Hi, I’m Purv Dalwadi
 
-As a Full-Stack Developer, I work comfortably across the entire stack. My current toolbox includes:
+🎓 I’m a Computer Engineering student passionate about crafting scalable web solutions and solving real-world problems through code. I’m driven by the challenge of turning complex ideas into clean, functional, and high-performing applications.
 
-Backend: Node.js, Express.js
+💻 As a **Full-Stack Developer**, I work comfortably across the entire stack.  
+My current toolbox includes:
 
-Frontend: React, Tailwind CSS
+### 🧰 Tech Stack
 
-Database: MongoDB
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-🧠 I’m constantly pushing myself to grow — right now, I’m diving deeper into AWS and Next.js to broaden my development capabilities.
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-🚧 One project I’m especially proud of is SkillForge, a full-stack platform I helped build and lead. It was a hands-on experience in team collaboration, leadership, and full-cycle development — and it fueled my hunger for more challenging builds.
+**Database**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🤝 I’m always open to collaborating on exciting projects, exchanging knowledge, and connecting with like-minded developers who are just as passionate about tech as I am.
+**Learning Now**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+🚀 One project I’m especially proud of is **SkillForge**, a full-stack platform I helped build and lead.  
+It gave me hands-on experience in:
+
+- 🧠 Full-cycle development  
+- 👥 Team collaboration & leadership  
+- 💡 Real-world problem solving  
+
+---
+
+🤝 I’m always open to:
+- Collaborating on exciting projects
+- Exchanging knowledge
+- Connecting with passionate tech folks like you!
+
+📫 Let's connect!
+
+
